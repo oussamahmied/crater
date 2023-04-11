@@ -302,6 +302,16 @@ return [
             'model' => Customer::class
         ],
         [
+            'title' => 'navigation.suppliers',
+            'group' => 1,
+            'link' => '/admin/suppliers',
+            'icon' => 'UserIcon',
+            'name' => 'Suppliers',
+            'owner_only' => false,
+            'ability' => 'view-customer',
+            'model' => Customer::class
+        ],
+        [
             'title' => 'navigation.items',
             'group' => 1,
             'link' => '/admin/items',
