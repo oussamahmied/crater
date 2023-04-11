@@ -148,7 +148,6 @@
   "global_search": {
     "search": "Rechercher",
     "customers": "Clients",
-    "suppliers":"Fournisseurs",
     "users": "Utilisateurs",
     "no_results_found": "Aucun résultat"
   },

@@ -2,6 +2,7 @@
   "navigation": {
     "dashboard": "Dashboard",
     "customers": "Customers",
+    "suppliers": "Fournisseurs",
     "items": "Items",
     "invoices": "Invoices",
     "recurring-invoices": "Recurring Invoices",
