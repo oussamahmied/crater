@@ -172,7 +172,7 @@
   "customers": {
     "title": "Clients",
     "prefix": "Code client",
-    "add_customer": "Ajouter un client",
+    "add_customer": "Ajouter client",
     "contacts_list": "Liste de clients",
     "name": "Nom",
     "mail": "Email | Emails",
@@ -201,7 +201,7 @@
     "street_number": "Numéro de rue",
     "primary_currency": "Devise principale",
     "description": "Description",
-    "add_new_customer": "Ajouter un client",
+    "add_new_customer": "Ajouter client",
     "save_customer": "Enregistrer",
     "update_customer": "Enregistrer",
     "customer": "Client | Clients",

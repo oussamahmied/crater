@@ -1,0 +1,13 @@
+# Query: ajouter client
+# ContextLines: 1
+
+2 results - 1 file
+
+resources/scripts/locales/fr.json:
+  174      "prefix": "Code client",
+  175:     "add_customer": "Ajouter un client",
+  176      "contacts_list": "Liste de clients",
+
+  203      "description": "Description",
+  204:     "add_new_customer": "Ajouter client",
+  205      "save_customer": "Enregistrer",
